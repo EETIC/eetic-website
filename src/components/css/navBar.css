@@ -14,12 +14,14 @@ height: 100%;
 }
 
 
+.nav-btn{
+    left: 1700px;
+    position: absolute;
+}
 
 .btn.btn-primary{
     height: 51px;
     width:147px;
-    left: 1700px;
-    position: absolute;
     border-radius: 50px;
     background-color: #FF845E;
     border-color: #ee9276;

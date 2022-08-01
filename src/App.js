@@ -14,6 +14,7 @@ function App() {
       <NavBar/>
       <TextIntro/>
       <TextJoin/>
+      <CardPanel/>
       <Footer/>
     </div>
   );

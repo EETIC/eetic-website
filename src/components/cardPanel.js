@@ -5,6 +5,7 @@ import './css/card.css';
 function cardPanel(){
     return(
     <div className="cardPanel">
+      
         <Card/>
         <Card/>
         <Card/>

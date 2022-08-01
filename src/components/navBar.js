@@ -24,7 +24,7 @@ function navBar(){
            <div className="team mouse">Team</div>
            </div>
            <div className="signIn mouse">Sign in</div>
-        <Button>Sign Up</Button>
+        <Button className="nav-btn">Sign Up</Button>
       </Navbar>    
       </div>
     );
