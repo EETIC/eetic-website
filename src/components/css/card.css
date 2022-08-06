@@ -5,7 +5,7 @@
     border-color: white;
     }
     .card-title{  
-        font-size: x-large;
+        font-size: large;
         font-weight: bold;
         margin: var(--bs-card-spacer-y) var(--bs-card-spacer-x)
     }
@@ -14,9 +14,6 @@
         font-family: 'Poppins';
         color: #595D6B;
         text-align: left;
-    }
-    .body{
-        font-size: large;
     }
     .btn-card{
         align-self: center;

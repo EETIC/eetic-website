@@ -12,11 +12,20 @@ const items =[
         <EventCard/>,
         <EventCard/>,
 ]
+const responsive = {
+  0: { items: 1 },
+  568: { items: 2 },
+  1024: { items: 4 },
+};
 function CardPanel(){
     return(
       <div className="p-4 ">
-        <h1 className="ms-2 font">Upcoming Event</h1>
-        <AliceCarousel mouseTracking items={items} responsive={{0: {items: 1,},512:{items:2},1024: {items: 3}}} />
+        <h3 className="ms-2 font">Upcoming Event</h3>
+        <AliceCarousel 
+        mouseTracking 
+        items={items} 
+        autoHeight  
+        responsive={responsive}/>
       </div>
     );
 }
