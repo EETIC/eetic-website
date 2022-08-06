@@ -146,8 +146,7 @@ height: 100%;
 }
 
 .signUp:hover {
-    background-color: var(--primary-white) !important;
-    ;
+    background-color: #fa9c7f !important;
     color: var(--primary-grey-blue) !important;
     border-color: var(--primary-orange) !important;
 }
