@@ -277,7 +277,7 @@ export const event_data = [
       Speaker: Sudev Suresh Sreedevi, UI/UX designer & web developer from College of Engineering Trivandrum",
     venue: "Google Meet",
     poster_url:
-      "https://github.com/Anirudh-A-V/eetic-website/blob/main/src/images/4.png?raw=true",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPSrmRQAmzV6LZz6epEK_cHrRuxkaUH6JaRVeVECwwu-_EOL7pAzA2Q2kjSfz6ukxLzfIaT5byBjJkOZZ0-2yKGGuo=w1920-h980",
     id: "14",
     yt: "https://www.youtube.com/playlist?list=PLDzCun2PksCc-1Jg02ha5EJTkmEsVlQ-Z",
   },
@@ -294,7 +294,7 @@ export const event_data = [
       "EETI Foundation presents to you a session on Brain interfacing and computing. BCI is an amazing automation through which you can analyse what's inside a brain....🧠 Isn't it interesting!!",
     venue: "Google Meet",
     poster_url:
-      "https://github.com/EETIC/eetic-website/blob/main/src/images/BCI.png?raw=true",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gOn24xPSr1a81s_natVEGFLFGO7d-czBZYFrhke3xA16Z-l3G0DRnh8MjgpdNHGKwpEVHEUoXYxSk1gDqEqGIG-LG_1PA=w1920-h980",
     id: "15",
     yt: "https://youtu.be/2DsqhXmrKhY",
   },
