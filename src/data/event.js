@@ -312,7 +312,7 @@ export const event_data = [
       Here is a wonderful opportunity for you. EETI foundation is organising a program to introduce the opportunities of higher studies in Germany.😃",
     venue: "Google Meet",
     poster_url:
-      "https://lh3.googleusercontent.com/u/0/drive-viewer/AJc5JmTEQd-AT49Is56e2veNNGAi5miJYxOSJAaFe59h4xLVqHX_F0ajdK-LDz_YPHd2qJMMHqJO4ZUoNt7c7gc_hzFJrkozdg=w1920-h913",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AFDK6gPKozYRHjdrpCLfxoGadu3gyCIjpR7pEmQ6gBbn3fOVrQnhAGw4dMkSHJAIOb6Eutb8tEC2ZlP8NXJXmIktIeUzXP6vyw=w1920-h980",
     id: "16",
     yt: "https://youtu.be/",
   },
